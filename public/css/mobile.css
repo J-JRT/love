@@ -1,0 +1,19 @@
+@media(max-width:992px){
+    .txt {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .mb_css{
+       padding: 0; 
+    }
+    .col-xs-6 {
+        width: 40%;
+        left: -32px;
+    }
+    .and {
+        margin-left: -40px;
+    }
+    .timeline > li > .timeline-panel:before{
+        right: -1px;
+    }
+}
